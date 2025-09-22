@@ -33,7 +33,7 @@ All shadcn/ui components have been downloaded under `@/components/ui`.
 
 ## Development
 
-- Import components from `@/components/ui` in your React components
+- Import components from `@/components/ui` in React components
 - Customize the UI by modifying the Tailwind configuration
 
 ## Note
